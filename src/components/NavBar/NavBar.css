@@ -1,0 +1,9 @@
+.navbarTab {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    width: 100%;
+}    
+.navbarTab:hover {
+        background-color: rgb(134 239 172);
+    }
