@@ -7,7 +7,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
-    <div className='flex h-[2000px]'>
+    <div className='flex'>
         <BrowserRouter>
           <NavBar/>
           <Routes>
